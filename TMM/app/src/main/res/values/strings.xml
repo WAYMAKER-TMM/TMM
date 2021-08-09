@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TMM</string>
+    <string name="danger_line">단차 위험 호선</string>
+    <string name="frequently_station">자주 찾는 역</string>
+    <string name="step_search">지하철 단차 검색하기</string>
+</resources>
